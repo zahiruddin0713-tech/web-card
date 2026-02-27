@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Untuk Si Manja ❤️</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: 'Arial', sans-serif;
+      background: #ffe6e6;
+      padding-top: 50px;
+    }
+    h1 { color: #ff4d6d; }
+    p { font-size: 20px; }
+    button {
+      background: #ff8080;
+      color: white;
+      border: none;
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 10px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Untuk Si Manja saya😘</h1>
+  <p>saya okeyy jaa MUACCHHH 😘�</p>
+  <button onclick="alert('Saya sayang awak! ❤️')">Klik sini</button>
+</body>
+</html>
